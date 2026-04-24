@@ -1,2 +1,2 @@
 # Real-Estate-Price-Prediction
-Real Estate Price Prediction using Linear Regression
+This project is done in an effort to predict the real estate prices of a particular region taking several attributes into account. There are three factors that influence the price of a house which includes physical conditions, concepts and location. The current framework includes estimating the real estate prices without any expectations of market prices and cost increment. By breaking down past market patterns and value ranges, and coming advancements, future costs will be anticipated. The algorithm used to predict the real estate prices is multiple linear regression. This algorithm takes only one independent and one dependent variable into consideration.
